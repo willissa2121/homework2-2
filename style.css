@@ -158,6 +158,10 @@ button{
     height:15vh;;
   }
 
+  .contact-card-content{
+    width:60vw;
+  }
+
 }
 
 @media only screen and (max-width:640px){
