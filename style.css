@@ -20,6 +20,7 @@ a{
 label{
   color:teal;
   margin:1% 0% 1% 0%;
+  font-size:20px
 }
 
 button{
@@ -212,6 +213,10 @@ button{
   #about-me-text{
     width:60vw;
     
+  }
+
+  input{
+    text-align:center
   }
 
 
