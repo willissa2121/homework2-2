@@ -16,6 +16,22 @@ a{
   padding: 0px 15px 0px 15px;
   font-size:25px;
 }
+
+label{
+  color:teal;
+  margin:1% 0% 1% 0%;
+}
+
+button{
+  margin-left:1%;
+  margin-bottom:1%;
+  color:white;
+  background:teal;
+  border-radius: 50
+
+}
+
+
 .header-content{
   display:flex;
   flex-direction:row;
@@ -66,6 +82,15 @@ a{
   display:flex;
 }
 
+.input-group{
+  display:block;
+  width:95%;
+  margin-left:1%;
+  margin-bottom:1%;
+  margin-top:1%;
+}
+
+
 .body-content{
   padding-top:10px;
   margin-top:20px;
@@ -80,11 +105,13 @@ a{
 
 
 .footer{
+  
   background:black;
   color:white;
   display:flex;
   justify-content:center;
   align-items:center;
+  
 }
 
 
