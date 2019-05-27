@@ -49,6 +49,7 @@ button{
   background:white;
   /* height:50vw; */
   width:75vh;
+  overflow-y: scroll;
 }
 
 .p-card{
