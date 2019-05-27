@@ -121,6 +121,15 @@ a{
   .card{
     width:70vh;
   }
+  .p-card{
+    width:85vw;
+    height:90vh;
+    
+  }
+  .p-image{
+    width:45%;
+    height:15vh;;
+  }
 
 }
 
@@ -128,7 +137,10 @@ a{
   header{
     position: static;
   }
- 
+  /* .p-image{
+    height:22%;
+  }
+  */
 
   .header-content{
     display:flex;
