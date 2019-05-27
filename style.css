@@ -49,7 +49,7 @@ button{
   background:white;
   /* height:50vw; */
   width:75vh;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .p-card{
@@ -193,7 +193,7 @@ button{
     height:90%;
     margin: 0 auto;
     margin-left:2%;
-    overflow-y: scroll;
+    overflow-y: auto;
   }
   #about-me-img{
     width:80%;
