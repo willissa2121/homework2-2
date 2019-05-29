@@ -1,1 +1,3 @@
 # homework2-2
+
+For this Project, No bootstrap was used. Simply click the navigation bars at the top to navigate between HTML files. The portfolio images will simply link back to my about.me main page, as this is my only project as of now. The screen will slightly change formatting as the screen decreases in size, and then will dramtically change shape at the 640px width, at which point the header and links become block level, and all card-content is column oriented with a scroll bar as needed for mobile users.
